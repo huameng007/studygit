@@ -11,3 +11,4 @@ Git add vulcan.
 Git create branch after clone.
 Git today is a bad time.
 Git today is a good time.
+Git add author.
