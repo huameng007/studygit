@@ -7,3 +7,4 @@ Git merge --no-ff.
 Git only merge (Fast forward).
 Git dev modifing.
 Git dev modifing again.
+Git add vulcan.
